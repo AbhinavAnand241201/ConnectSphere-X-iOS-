@@ -1,0 +1,7 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+xcuserdata/
+Pods/
+
